@@ -1,0 +1,17 @@
+transformers==4.17
+accelerate
+seqeval
+datasets
+pandas
+matplotlib
+seaborn
+scikit-learn
+numpy
+gensim
+torch
+ipython
+tqdm
+wandb
+optuna
+streamlit
+requests
