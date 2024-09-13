@@ -4,16 +4,16 @@ An NLP project that uses a fine-tuned Distil-BERT model to recognize abbreviatio
 
 ## 📖 Table of Contents
 
-- [Introduction]
-- [Features]
-- [Installation]
-- [Usage]
-- [Model Training]
-- [Model Deployment]
-- [Testing]
-- [Interface]
-- [License]
-- [Acknowledgements]
+- Introduction
+- Features
+- Installation
+- Usage
+- Model Training
+- Model Deployment
+- Testing
+- Interface
+- License
+- Acknowledgements
 
 ## 🌟 Introduction
 
