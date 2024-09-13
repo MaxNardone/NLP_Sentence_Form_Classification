@@ -10,7 +10,7 @@ import os
 ##########################
 SECRET = os.environ["api_secret"]
 headers = {"Authorization": "Bearer " + SECRET}
-API_URL = "<YOUR_API_URL>>"
+API_URL = "https://api-inference.huggingface.co/models/MaxNardone/model_test"
 ##########################
 
 
