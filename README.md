@@ -75,7 +75,7 @@ Stress testing was conducted using the `Testing.ipynb` notebook to evaluate the 
 
 A Streamlit-based interface was developed, enabling users to input custom or pre-defined sentences. The application analyzes the input to detect abbreviations and long forms, displaying the results in an interactive manner.
 
-[![Watch the video]]
+[![Watch the video](https://raw.githubusercontent.com/MaxNardone/NLP_Sentence_Form_Classification/main/Thumbnail.png)]
 (https://raw.githubusercontent.com/MaxNardone/NLP_Sentence_Form_Classification/main/Short%20demonstration.mp4)
 
 ## 📄 License
