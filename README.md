@@ -89,4 +89,4 @@ This project is licensed under the MIT License
 
 - **Hugging Face** for providing an excellent platform for model deployment.
 - **Streamlit** for simplifying the creation of web applications.
-- **PLOD-CW Dataset** for the training data.
+- **PLOD-CW Dataset** for the training data. Available at: https://huggingface.co/datasets/surrey-nlp/PLOD-CW
